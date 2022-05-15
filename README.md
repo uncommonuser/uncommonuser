@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @uncommonuser
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![EducatedFilthyCuscus-size_restricted](https://user-images.githubusercontent.com/105605720/168489653-21443f49-9688-4fbc-9a28-86eb7434a170.gif)
 
-<!---
-uncommonuser/uncommonuser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 👋 Hi, I’m @uncommonuser
+- 👀 I’m interested in 21st century 
+- 🌱 I’m currently learning ∞ 
+- 💞️ I’m looking to collaborate on ∞ 
+- 📫 How to reach me ... 
+     Future<Cortana> thinAboutMe(){
+        return cortana;
+     }
+
