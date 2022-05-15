@@ -1,11 +1,11 @@
-<a href="url"><img src="https://user-images.githubusercontent.com/105605720/168490029-b44f66c0-41c4-4372-8f42-066474d49b1f.gif" align="rright" height="48" width="48" ></a>
-
 - Hi, I’m @uncommonuser 
 - I’m interested in 21st century 
 - I’m currently learning ∞ 
 - I’m looking to collaborate on ∞ 
 - How to reach me ... 
-     Future<Cortana> thinAboutMe(){return cortana;}
+     Future<Cortana> thinAboutMe(){return cortana;}<a href="url"><img src="https://user-images.githubusercontent.com/105605720/168490029-b44f66c0-41c4-4372-8f42-066474d49b1f.gif" align="right" height="120" width="201" ></a>
+
+
 
 <!-- 
 <p align="center">
