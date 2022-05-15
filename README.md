@@ -3,7 +3,7 @@
 - I’m currently learning ∞ 
 - I’m looking to collaborate on ∞ 
 - How to reach me ... 
-     Future<Cortana> thinAboutMe(){return cortana;}<a href="url"><img src="https://user-images.githubusercontent.com/105605720/168490029-b44f66c0-41c4-4372-8f42-066474d49b1f.gif" align="right" height="120" width="201" ></a>
+     Future<Cortana> thinAboutMe(){return cortana;} <a href="url"><img src="https://user-images.githubusercontent.com/105605720/168490029-b44f66c0-41c4-4372-8f42-066474d49b1f.gif" align="right" height="240" width="402" ></a>
 
 
 
